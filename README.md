@@ -1,5 +1,9 @@
 # MediumRedirect
 
+## Python
+
+1. [Hypermodern Python](https://medium.com/@cjolowicz/hypermodern-python-d44485d9d769)
+
 ## NLP Research survey
 
 1. [NLP Newsletter](https://medium.com/dair-ai/nlp-newsletter-bertology-primer-fastpages-t5-data-science-education-pytorch-notebooks-slow-8ae5d499e040)
